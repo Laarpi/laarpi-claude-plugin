@@ -1,0 +1,13 @@
+{
+  "name": "laarpi",
+  "displayName": "Laarpi",
+  "version": "1.0.0",
+  "description": "Make games with the Laarpi studio app from Claude Code: start a game from an idea, see where it stands and what it cost, approve or send notes at each milestone, and open it in the app.",
+  "author": {
+    "name": "Stuvio"
+  },
+  "homepage": "https://github.com/Laarpi/laarpi-claude-plugin",
+  "repository": "https://github.com/Laarpi/laarpi-claude-plugin",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://games.laarpi.com/privacy"
+}

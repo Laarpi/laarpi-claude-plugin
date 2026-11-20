@@ -1,0 +1,12 @@
+{
+  "name": "laarpi",
+  "description": "The Laarpi game studio on this computer, for Claude Code.",
+  "owner": { "name": "Stuvio" },
+  "plugins": [
+    {
+      "name": "laarpi",
+      "source": "./laarpi",
+      "description": "Make games with the Laarpi studio app from Claude Code: start a game from an idea, see where it stands and what it cost, approve or send notes at each milestone, and open it in the app."
+    }
+  ]
+}

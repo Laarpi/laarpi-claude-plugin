@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "laarpi": {
+      "type": "http",
+      "url": "http://127.0.0.1:47821/mcp",
+      "headersHelper": "sh \"${CLAUDE_PLUGIN_ROOT}/scripts/headers.sh\""
+    }
+  }
+}
